@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bentivolyo, or, Good will to all that are called unconformists, or, To all the people of God</title>
+            <author>Bentivoglio, Guido, 1577-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27418</idno>
+            <idno type="STC">Wing B1913</idno>
+            <idno type="STC">ESTC R23684</idno>
+            <idno type="EEBO-CITATION">07870073</idno>
+            <idno type="OCLC">ocm 07870073</idno>
+            <idno type="VID">40231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bentivolyo, or, Good will to all that are called unconformists, or, To all the people of God</title>
+                  <author>Bentivoglio, Guido, 1577-1644.</author>
+               </titleStmt>
+               <extent>[1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40231:1"/>
+            <pb facs="tcp:40231:1" rendition="simple:additions"/>
+            <p>Bentivolyo, OR Good Will to all that are Called UNCONFORMISTS, OR To all the PEOPLE of GOD.</p>
+            <p>Printed in the Year MDCLXVII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40231:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THat you may not expect more than you are like to find here; expect nothing but good will, which I hope you will find; but I will promiſe you here is neither Courtſhip nor Bhetorick, but ſo far from it, that it is ſcarce orderly and metho<g ref="char:EOLhyphen"/>dical; but as the unbred Countryman which can ſay but little, only wiſh you well, and ſay <hi>Good be with you:</hi> even ſuch are theſe undreſt naked lines: It may be you will ſay it is a ſhame to ſend ſo undreſt<g ref="char:punc">▪</g> and naked a thing abroad; but it is young and little, therefore the leſs ſhame, and beſides, the Mother is poor, and hath not fine cloaths to dreſs it with, therefore begs of all that ſhall meet it, to uſe it favour<g ref="char:EOLhyphen"/>ably, and think the beſt of it, becauſe it is but young and little; and the greateſt kindneſs you can do it or its Mother, is to take it home and dreſs it (the Face is good) and ſend it abroad again: I have nothing to give it but the Name, which is <hi>Bentivolyo.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb n="3" facs="tcp:40231:2"/>
+            <epigraph>
+               <bibl>Pſal. 92. verſ, 1. 2.</bibl>
+               <q>
+                  <p>It is a good thing to give praiſe unto the Lord, and to ſing praiſes unto thy Name, O moſt High.</p>
+                  <p>To ſhew forth thy Loving kindneſs in the morning, and thy faithfulneſs every night,</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y intent and purpoſe is only to ſpeak (though poorly and weakly) that little ſence I have of the faithfulneſs and loving kindneſs of God, to my ſelf and theſe people called <hi>Fanaticks,</hi> and to per<g ref="char:EOLhyphen"/>ſwade them (if I may do it) to conſider the faith<g ref="char:EOLhyphen"/>fulneſs of God in the Day or Night of thick dark<g ref="char:EOLhyphen"/>neſs, and not only to repine and murmure at our ſufferings tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh they be great; but to remember the faithfulneſs of the Lord, that he hath not left us, nor given us over to deſtruction; but we have yet a place of Repentance, and a time to conſider why we are thus afflicted; and in loving kindneſs and faithfulneſs to us he hath born long, he hath been a God of long<g ref="char:punc">▪</g> ſuffering toward us; truly we may ſee him waiting to be gratious, and that he doth not afflict willingly if we will but obſerve his doings: How gently did the ſuf<g ref="char:EOLhyphen"/>ferings of the people begin, with ſome particular Families, and ſome particular perſons there, timing of others; and then to the Nation in general Wars was threatned firſt (to ſee what that would do) then brought upon it; then the Sickneſs, ſtill as if the Lord waited to ſee if we would leave the evil of our ways; then the Fire, which was a heavy Judgement upon all, but fell heavieſt upon thoſe which are called, and call themſelves the people of God; and now the Lord ſeems to wait, to ſee whether they will yet return or no: It is now very near twelve months ſince the Fire; not one of theſe
+<pb n="4" facs="tcp:40231:3"/> twelve but we have feared, and been in expectation of very great and ſudden deſtruction; and if the mercies of God had not over-ru<g ref="char:EOLhyphen"/>led mercileſs and cruel men, we might not now have been left to have given thanks to the Lord for his loving kindneſs and faithfulneſs to poor man<g ref="char:punc">▪</g> which is the firſt thing you ought to doe, to give thanks to the Lord, and to ſhew forth his loving kindneſs in the morning, and his faithfulneſs every night; and let me tell you, He is faithful in Judgement as well as in Mercy, and if Mercy will not do, Judgement muſt, and in great faithfulneſs too, for if you be his, he will not loſe you: Therefore that we may turn to him while he is waiting to be gracious; before he brings more and further Judgement upon us, while his wrath is kindled but a little, that he may turn in mercy, and heal our backſlidings.</p>
+            <p>Firſt the great and general cry is againſt wickedneſs in general, and the evil of the times we now live in; but few or none conſider their own evil, why, or for what iniquity was my Family viſited, or for what ſin was my Eſtate or my Relation loſt in the War, or was mine or mine conſumed in the Fire; not that theſe were Sinners on whom theſe Judgements came, more than thoſe on whom they did not come, but unleſs you all repent, ye ſhall likewiſe periſh; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is a warning to thoſe on whom they have not come, as well as to thoſe on whom they have, and if they do not take warning by you they may look for greater judgements than hath yet come; you are yet in houſes, and moſt of you have enough, though n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e abundance as before it may be you had, yet the ſame hand wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch took part could have taken all, and have ſuffered that hand to have taken our l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves too; Our Saviour learnt obedience by the thin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which he ſuff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red; it may be, if you ſeriouſly conſider, you may learn by theſe things which you ſuffer, though you may ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer them j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtly too; did not ſome of you ſet your hearts more upon the created than upon the Creator? did you not delight more in your weal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h than in the Lord thy God? is it not then juſt you ſhould loſe it? learn then by it to ſee the vanity of things which periſh in the uſing, and lay up that which periſheth not, ſo may you keep off what is further threatned, and appeaſe thy God for what is paſt; was not ſome of you even ſwallowed up with covetouſneſs, which is Idolatry; is it not juſt then that your Idols ſhould be taken away, yes and mercy too? learn therefore to covet nothing but the beſt gifts: may it not be ſaid of moſt of us? ye have lived in pleaſure on the Earth, and have been
+<pb n="5" facs="tcp:40231:3"/> wanton; have not too many ſpent moſt of their time in rioting, and feaſting, taking care what you ſhall eat, and what you ſhall drink, and wherewith you ſhall be clothed; and I fear there is too too much of this ſtill amongſt us; but there is certainly a great evil in it, and if it be not forſaken, the latter end will be worſe then the begin<g ref="char:EOLhyphen"/>ning, and theſe things to be done by thoſe that are called the peo<g ref="char:EOLhyphen"/>ple of God, are an abomination unto him; therefore leave off to do evil, and do good: The ſecond cry is againſt the abominations which are alowed of in the nation, <hi>viz.</hi> drunkenneſs, ſwearing, and whoring, and perſecution, and all manner of evils which are publikely acted, theſe are abominable indeed; but for all theſe things they muſt come to judgement; we have nothing to do with them, till we have judged our ſelves.</p>
+            <p>Shall not God avenge for theſe things?</p>
+            <p>But it is not thoſe which I ſpake to, it is to the people of God, to thoſe which are called<note place="margin">Iſaiah 5. &amp; 29 <hi>v. Shall I not viſit for theſe things ſaith the Lord, ſhall not my ſoul be ave<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d on ſuch a nation as this.</hi>
+               </note> by his name (but every one which nameth the name of the Lord depart from evil, which I hearti<g ref="char:EOLhyphen"/>ly wiſh that all would do) not that I would ex<g ref="char:EOLhyphen"/>clude the other (nor do I) from being his too; but my more preſent concern is for you, which calling the Lord to be your God, and your ſelves to be his people; to you is this good will that you would turn to the Lord withal your heart, and withal your ſtren<g ref="char:cmbAbbrStroke">̄</g>gth, and put a ſtop to this hand of Judgment which is upon the Nation; God takes more notice of your ſins then he doth of theirs; thei pretend no more ſervice to him then that they may be ſaved by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m, you profeſs to love him, and to be beloved by him, to whom much was given, much was required; you have had a greater talent; theirs are ſins of commiſſion, yours ſins of omiſſion you omit what you know you ſhould do; they cry Lord have mer<g ref="char:EOLhyphen"/>cy upon us miſerable ſinners, and think they have done enough: You know that in a Princes or a nobles Mans houſe there are many offices, ſome are inferior, <hi>viz.</hi> gromes, ſculians &amp;c. and ſome ſuperior, as thoſe that attend his<note place="margin">John 14, &amp; 2. <hi>In my fathers houſe are many Manſi<g ref="char:EOLhyphen"/>ons.</hi>
+               </note> own perſon; now the inferior, as the grome, or the ſcullian, if they commit a fault it may be it is not taken notice of by their Lord and Maſter, he doth not take notice to correct his inferior offi<g ref="char:EOLhyphen"/>cers
+<pb n="6" facs="tcp:40231:4"/> as he doth the other; yet if they continue to be faulty, and do not refrain, but be ſtuborn and rebellious, ſo that complaint be made and their Lord hear, they will be ſeverely puniſhed, if not turned off: But thoſe which are ſuperior if they commit a fault it is ſeen preſently, becauſe they attend the preſence, and ſo if they are faulty, or if they neglect their duty, it is a greater diſhonor to their Lord then if the grome or the like did a fault; and ſo it is with all you that are called the ſervants of God, if you be found faulty; though it be a leſſer fault then theirs as you may think, yet it is a greater becauſe you did it, and a greater diſhonor to God: Therefore to all that are, and deſire to be the ſervants or the children of the true God, they muſt give a conſtant attendance on the Lord, and not run a gading after the things of the world, after pride vani<g ref="char:EOLhyphen"/>ty &amp;c. and though we ſee others before us that do ſo, and ſo, which may be a temptation, yet reſiſt the Devil and he will flye from you, examine thy ſelf when you are dreſſing and tricking, or curling your ſelf, whether you are ſerving the Lord<g ref="char:punc">▪</g> or whether you are ſerving thy luſt and thy pride; if thy God you may go on; but if thy luſt leave it off though you be one by thy ſelf, and ſo in all thy life and converſation; examine thy ſelf whether you are now or now atten<g ref="char:EOLhyphen"/>ding upon thy God; ſometimes you will, it may be, be in great ſwelling words of vanity, ſometimes lying and flattering one with another in courtſhip and complimenting, as you call it, and if ſo know that you are out of your place, and not ſerving your Lord; where<g ref="char:EOLhyphen"/>fore make haſt to repent, and humble your ſelf, and beg of the Lord to forgive you, and to receive you again.</p>
+            <p>The third cry is againſt the wickedneſs of the Papiſts, and Popery, and it may be juſt too, and we may juſtly pray as <hi>David</hi> did to be delivered from the wicked, but let us alſo conſider what <hi>David</hi> ſaith in that place in the 17 <hi>Pſalm,</hi> and part of the 13 and 14 verſes<g ref="char:punc">▪</g> 
+               <hi>De<g ref="char:EOLhyphen"/>liver my ſoul from the wicked,</hi> which is the word; the 14 from men which are thy hand, O Lord from men of the world; therefore when judgement comes upon you, or upon a Nation by the wicked, not to fret at the wicked, but to look on it as it is the ſword of the Lord, and his ſword never comes but where there is need of it; men are the hand of God, and men of the world too; ſometimes he makes uſe of them to puniſh us, ſometimes to try us, and when he will he can ſtay his hand, and men can do nothing: Now we have theſe two things before us to ſtop this hand too, hear the word, and
+<pb facs="tcp:40231:4"/> whoſe it is; not to ſtop our ears and go on, but to hear and turn; then we have like <hi>David</hi> to pray, pray to be delivered, not that our bodies only may be delivered from their cruelty, but our ſouls from their ſnare; and I am perſwaded that God hath yet mercy for this people, and might be yet intreated for this Nation, if there were any that could ask aright; O ſtrive all of you that if it may be we may all with one hand, and one heart, put up a petition to the great King of Kings in the behalf of the Nation, and lay aſide all private intereſt of your own: when you petition your earthly King, or any great Perſon, you are all agreed together, and one doth it in the name of all, and all give their conſent to it; but here to our heavenly King (which I think is a great evill amongſt you) one would have one thing, and another would have another thing, and you are not all agreed of your petition how you would have it, or what you would have; How then can you expect any thing that know not what you would have? if you could all have what you would have, ſure there would then be great confuſion, as there is now: I hope you all ſerve one Maſter, and are one family (and do believe that ſome of all do ſo) how is it then that you are diſpleaſed, that all are not in the ſame place one of another: The Presbyterians would have all to be as they be, and the Independant as they be, and the Baptiſt as they be, and the Quakers as they be; this is the reaſon why you cannot joy all with one conſent; it may be God is ready (and waits) for your prayer, or your petition, and you are not ready to give it up<g ref="char:punc">▪</g> for ſhame then leave off intereſt of private parties, and the in<g ref="char:EOLhyphen"/>tereſt of perſons and joy with one conſent for the good of the whole, and for the honor of the Lord, and that judgement may run down as waters, and righteouſneſs as a mighty ſtream, and that there is no ſtoping of, it will run do what you can<g ref="char:punc">▪</g> you need not be concern<g ref="char:EOLhyphen"/>ed for this or that, all will have part then; you meet together, and ask what you think to be beſt, and it may be you would be all glad to ſee this; but you cannot all agree to come together to ask it; if you could all meet together to humble your ſelves before the Lord, &amp; beg this thing of him it may be he would hear, <hi>Jonah</hi> 3, 9. Who can ſtill it, God will turn and repent, and turn away from his fierce anger, that we periſh not: We have in many places in Scripture, that God forgetteth not the humble; and <hi>David</hi> in the 10 <hi>Pſalm</hi> makes a pray<g ref="char:EOLhyphen"/>er to God, that he would not forget the humble; and the Lord himſelf often takes notice of a people that humble them as often as we read of any that humbled themſelves; we read alſo that God was merciful to them.</p>
+            <pb facs="tcp:40231:5"/>
+            <p>Chro. 2, 12. <hi>And when the Lord ſaw that they humbled themſelves, the word of the Lord came to</hi> Shemaiah, <hi>ſaying, they have humbled them<g ref="char:EOLhyphen"/>ſelves, therefore I will not deſtroy them. My thinks theſe be great incou<g ref="char:EOLhyphen"/>ragements for all to come together, and humble themſelves; but it may be you will ſay I am not in the way, and there is but one way true, I ſay ſo too, there is but one way which is Chriſt, he is the way, the Truth, and the Life,</hi> John 14, 6. The way of righteouſneſs is the way: Well then you all own one God (don't you) the God of Heaven; What ailes you then that you cannot all pray to that God for righteouſneſs and truth; we be all Sinners, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y can't we all hum<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le our ſelves <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore him? Can't you that are a Presbyterian be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighteous in your wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? and you that are an Independant be righteous in your way? and you Bap<g ref="char:EOLhyphen"/>tiſt in your way? and you Quaker in your way? and if you all are righteous, then you all are in one way, the way of righteouſneſs, and that is the right way, <hi>Rom. 14. 8. 5. Let every one be fully perſwaded in his own mind,</hi> and walk uprightly in his wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and make good uſe of what <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight he has, and God will give him more; though there is a ſort of people that preſume to ſay, <hi>the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e never was nor never ſhall be a great<g ref="char:EOLhyphen"/>er light than what they have,</hi> but to them I ſay they be miſtaken; there is a light, which when it ſhall appear, will dazle their eyes and make their light appear da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k; but walk up to what you have as children of the light, and let us agree in this to do the works of righteouſneſs and to love one another, for love is the fulfilling of the Law and with thus doing, and being reconciled to one another; I hope God will be re<g ref="char:EOLhyphen"/>conciled to us. Only this one thing more and I have done, That it is not meetings only, and abundance of Sacrifices that the Lord will accept of, but read <hi>Micah</hi> 6. 6 7, 8, and <hi>9th. verſes,</hi> and there you ſhall have in plain what the Lord will be pleaſed with.</p>
+            <p>
+               <hi>Wherewith ſhall I come before the Lord, and bow my ſelf before the high God? ſhall I come before him with burnt offerings, with calves of a year old? Will the Lord be pleaſed with thouſands of Rams, or with ten thouſands of Rivers of Oyle; ſhall I give my firſt born for my tranſgreſ<g ref="char:EOLhyphen"/>ſion, the fruit of my Body for the Sin of my Soul? He hath ſhewed thee, O man, what is good, and what doth the Lord require of thee, but to doe juſtly, and to love mercy, and to walk humbly with thy God. The Lords voice crieth unto the City, and the man of wiſdom ſhall ſee thy Name: hear ye the Rod, and who hath appointed it.</hi>
+            </p>
+            <p>That you would conſider of this, and practice it, is all I would ad<g ref="char:EOLhyphen"/>viſe, and ſo farewell.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
